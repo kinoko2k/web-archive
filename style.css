@@ -308,8 +308,8 @@ line-height:1.35;
 clear:both;
 padding:20px 0;
 overflow:hidden;
-background:#1f1f1f;
-border-top:1px solid #555;
+background:#034e5391;
+border-top:1px solid rgb(10, 133, 147);
 }
 
 * html #footer{height:1%;}
